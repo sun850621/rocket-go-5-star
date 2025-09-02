@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    --el-color-primary: #6b7280;
+    --el-color-primary-light-3: #9ca3af;
+    --el-color-primary-light-5: #d1d5db;
+    --el-color-primary-light-7: #e5e7eb;
+    --el-color-primary-light-8: #f3f4f6;
+    --el-color-primary-light-9: #f9fafb;
+    --el-color-primary-dark-2: #374151;
+
+    --el-component-size: 48px !important;
+}
+
+.el-input {
+    .el-input__wrapper {
+        @apply rounded-full px-4;
+    }
+}

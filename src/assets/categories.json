@@ -1,0 +1,222 @@
+[
+    {
+        "custom_main_category": "全部",
+        "custom_sub_category": "全部",
+        "icon": "material-symbols:grid-view-rounded"
+    },
+    {
+        "custom_main_category": "交通樞紐",
+        "custom_sub_category": "地鐵巴士",
+        "icon": "mdi:train-bus"
+    },
+    {
+        "custom_main_category": "交通樞紐",
+        "custom_sub_category": "機場港口",
+        "icon": "mdi:airplane-takeoff"
+    },
+    {
+        "custom_main_category": "交通樞紐",
+        "custom_sub_category": "火車纜車",
+        "icon": "mdi:train"
+    },
+    {
+        "custom_main_category": "住宿設施",
+        "custom_sub_category": "其他住宿",
+        "icon": "mdi:home-circle-outline"
+    },
+    {
+        "custom_main_category": "住宿設施",
+        "custom_sub_category": "度假村",
+        "icon": "mdi:palm-tree"
+    },
+    {
+        "custom_main_category": "住宿設施",
+        "custom_sub_category": "旅館",
+        "icon": "mdi:bed"
+    },
+    {
+        "custom_main_category": "住宿設施",
+        "custom_sub_category": "民宿",
+        "icon": "mdi:home-city-outline"
+    },
+    {
+        "custom_main_category": "住宿設施",
+        "custom_sub_category": "青年旅館",
+        "icon": "mingcute:hotel-line"
+    },
+    {
+        "custom_main_category": "公共機構",
+        "custom_sub_category": "學校",
+        "icon": "mdi:school-outline"
+    },
+    {
+        "custom_main_category": "公共機構",
+        "custom_sub_category": "政府機構",
+        "icon": "mdi:town-hall"
+    },
+    {
+        "custom_main_category": "宗教建築",
+        "custom_sub_category": "修道院",
+        "icon": "mdi:church-outline"
+    },
+    {
+        "custom_main_category": "宗教建築",
+        "custom_sub_category": "其他宗教建築",
+        "icon": "mdi:city-variant-outline"
+    },
+    {
+        "custom_main_category": "宗教建築",
+        "custom_sub_category": "寺廟",
+        "icon": "mdi:temple-buddhist-outline"
+    },
+    {
+        "custom_main_category": "宗教建築",
+        "custom_sub_category": "教堂",
+        "icon": "tdesign:church"
+    },
+    {
+        "custom_main_category": "宗教建築",
+        "custom_sub_category": "清真寺",
+        "icon": "mdi:mosque-outline"
+    },
+    {
+        "custom_main_category": "宗教建築",
+        "custom_sub_category": "神社",
+        "icon": "mingcute:miyajima-torii-line"
+    },
+    {
+        "custom_main_category": "觀光景點",
+        "custom_sub_category": "主題娛樂",
+        "icon": "tabler:rollercoaster"
+    },
+    {
+        "custom_main_category": "觀光景點",
+        "custom_sub_category": "其他景點",
+        "icon": "mdi:map-marker-account-outline"
+    },
+    {
+        "custom_main_category": "觀光景點",
+        "custom_sub_category": "動植物生態",
+        "icon": "mingcute:factory-2-line"
+    },
+    {
+        "custom_main_category": "觀光景點",
+        "custom_sub_category": "城市地標",
+        "icon": "mdi:city-variant-outline"
+    },
+    {
+        "custom_main_category": "觀光景點",
+        "custom_sub_category": "文化藝術",
+        "icon": "mdi:palette-outline"
+    },
+    {
+        "custom_main_category": "觀光景點",
+        "custom_sub_category": "歷史遺產",
+        "icon": "jam:castle"
+    },
+    {
+        "custom_main_category": "觀光景點",
+        "custom_sub_category": "產業觀光",
+        "icon": "mingcute:factory-2-line"
+    },
+    {
+        "custom_main_category": "觀光景點",
+        "custom_sub_category": "自然景觀",
+        "icon": "gg:trees"
+    },
+    {
+        "custom_main_category": "購物市集",
+        "custom_sub_category": "大型超市",
+        "icon": "mdi:cart-outline"
+    },
+    {
+        "custom_main_category": "購物市集",
+        "custom_sub_category": "市場市集",
+        "icon": "mdi:storefront-outline"
+    },
+    {
+        "custom_main_category": "購物市集",
+        "custom_sub_category": "百貨商場",
+        "icon": "icon-park-outline:shopping-mall"
+    },
+    {
+        "custom_main_category": "購物市集",
+        "custom_sub_category": "購物商店",
+        "icon": "material-symbols:local-mall-outline"
+    },
+    {
+        "custom_main_category": "非旅遊",
+        "custom_sub_category": "其他",
+        "icon": "mdi:help-circle-outline"
+    },
+    {
+        "custom_main_category": "非旅遊",
+        "custom_sub_category": "商業",
+        "icon": "mdi:briefcase-account-outline"
+    },
+    {
+        "custom_main_category": "非旅遊",
+        "custom_sub_category": "生活",
+        "icon": "material-symbols:in-home-mode-outline"
+    },
+    {
+        "custom_main_category": "餐飲美食",
+        "custom_sub_category": "咖啡輕食",
+        "icon": "mdi:coffee-outline"
+    },
+    {
+        "custom_main_category": "餐飲美食",
+        "custom_sub_category": "小吃夜市",
+        "icon": "mdi:food-drumstick-outline"
+    },
+    {
+        "custom_main_category": "餐飲美食",
+        "custom_sub_category": "正餐餐廳",
+        "icon": "mdi:silverware-fork-knife"
+    },
+    {
+        "custom_main_category": "餐飲美食",
+        "custom_sub_category": "甜點冰品",
+        "icon": "mdi:ice-cream"
+    },
+    {
+        "custom_main_category": "餐飲美食",
+        "custom_sub_category": "餐酒館",
+        "icon": "mdi:glass-wine"
+    },
+    {
+        "custom_main_category": "體驗活動",
+        "custom_sub_category": "其他",
+        "icon": "lucide-lab:watch-activity"
+    },
+    {
+        "custom_main_category": "體驗活動",
+        "custom_sub_category": "文化藝術",
+        "icon": "material-symbols:theater-comedy-outline"
+    },
+    {
+        "custom_main_category": "體驗活動",
+        "custom_sub_category": "水上活動",
+        "icon": "tabler:sailboat"
+    },
+    {
+        "custom_main_category": "體驗活動",
+        "custom_sub_category": "水療美容",
+        "icon": "mdi:spa-outline"
+    },
+    {
+        "custom_main_category": "體驗活動",
+        "custom_sub_category": "溫泉浴場",
+        "icon": "material-symbols:hot-tub"
+    },
+    {
+        "custom_main_category": "體驗活動",
+        "custom_sub_category": "陸上活動",
+        "icon": "mdi:hiking"
+    },
+    {
+        "custom_main_category": "體驗活動",
+        "custom_sub_category": "雪上活動",
+        "icon": "mdi:ski"
+    }
+]
