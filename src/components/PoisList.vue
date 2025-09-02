@@ -59,7 +59,7 @@
                     </div>
                     <div class="button-wrap">
                         <a
-                            :href="`https://www.google.com/maps/search/${p.main_title} ${p.address}/@${p.location[1]},${p.location[0]}&hl=zh-tw&gl=TW`"
+                            :href="`https://www.google.com/maps/search/?api=1&query=0%2C0&query_place_id=${p.place_id}`"
                             target="_blank"
                             class="google-map-btn"
                         >
